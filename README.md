@@ -12,6 +12,9 @@ This project use:
     </li>
 </ul>
 
+<h1>Initial</h1>
+Execute command 'bundle install'
+
 <h1>RSpec</h1>
 Execute command 'rspec'
 
